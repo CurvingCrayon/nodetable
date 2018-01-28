@@ -1,0 +1,25 @@
+body{
+    font-family: Segoe UI Light;
+}
+#console{
+    width: 300px;
+    height: 300px;
+    overflow-y: auto;
+    background-color: lightgray;
+    border: 1px solid gray;
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+.timetable {
+    border-collapse: collapse;
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.timetable th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}

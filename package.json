@@ -1,0 +1,22 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "connect": "^3.6.5",
+    "express": "^4.16.2",
+    "googleapis": "^25.0.0",
+    "jsonfile": "^4.0.0",
+    "node-horseman": "^3.3.0"
+  },
+  "name": "nodetable",
+  "version": "1.0.0",
+  "description": "Fetches my Maccas timetables",
+  "main": "wrapper.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hayden Keers",
+  "license": "ISC"
+}

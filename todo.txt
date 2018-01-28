@@ -1,0 +1,5 @@
+1. Fix table output
+1. Wait using selectors
+2. Auto-retry and continuous run
+3. Mystery shop
+4. Progress updates eternal
